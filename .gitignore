@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variable files
+.env
+
+# Build folder for the React app (don't ignore it in this case)
+# /build (comment this out or remove if you want to include the build folder)
+
+# System files
+.DS_Store
+Thumbs.db
